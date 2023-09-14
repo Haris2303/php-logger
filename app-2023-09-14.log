@@ -1,0 +1,3 @@
+[2023-09-14T21:55:05.699976+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\RotatingFileTest.INFO: Belajar PHP Logger [] []
+[2023-09-14T21:55:05.702992+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\RotatingFileTest.INFO: Test Rotating File Handler [] []
+[2023-09-14T21:55:05.703133+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\RotatingFileTest.INFO: Logging ke file app.log [] []
