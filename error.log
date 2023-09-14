@@ -1,0 +1,4 @@
+[2023-09-14T10:20:37.138452+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\LevelTest.ERROR: This is error [] []
+[2023-09-14T10:20:37.139090+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\LevelTest.CRITICAL: This is critical [] []
+[2023-09-14T10:20:37.139425+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\LevelTest.ALERT: This is alert [] []
+[2023-09-14T10:20:37.139755+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\LevelTest.EMERGENCY: This is emergency [] []
