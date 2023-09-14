@@ -1,0 +1,16 @@
+{
+    "message": "Learn a PHP logging",
+    "context": {},
+    "level": 200,
+    "level_name": "INFO",
+    "channel": "ProgrammerZamanNow\\Belajar\\PHP\\MVC\\FormatterTest",
+    "datetime": "2023-09-14T21:42:06.413822+00:00",
+    "extra": {
+        "git": {
+            "branch": "main",
+            "commit": "073f4b6bf876c8b73d6903c87511abd6e4f9cc4f"
+        },
+        "hostname": "haris-Satellite-L740",
+        "memory_usage": "4 MB"
+    }
+}
